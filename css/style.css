@@ -1,0 +1,41 @@
+body{
+/*centralizar textos*/
+    text-align: center;
+    /*colocar imagens*/
+    background-image: url(https://bit.ly/3g7ht7X);
+    /*remover repetição*/
+    background-repeat: no-repeat;
+    /*posicionamento*/
+    background-position: center center;
+    /*altura do body*/
+    height: 100vh;
+    /* tamanhoda imagem*/
+    background-size: 500px;
+    /*ficar a imagem de fundo*/
+    background-attachment: fixed;
+    /*imagem de fundo cor*/
+    background-color: #000000;
+}
+    
+    
+
+/*PERSONALIZAR TITULO*/
+h1 {
+    color: #FF0000;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/*PERSONALIZAR OS SUBTITULOS*/
+#green {
+    color: #00FF00;
+    font-style: italic;
+}
+#blue {
+    color: #0000FF;
+    font-weight: bold;
+}
+
+.colors{
+    color: #0000ff;
+    font-size: 24px;
+}
